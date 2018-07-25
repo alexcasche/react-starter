@@ -1,0 +1,2 @@
+** IMPORTANT
+ - Uncomment .env files from .gitignore
