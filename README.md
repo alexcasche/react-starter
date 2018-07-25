@@ -1,9 +1,8 @@
-# react-starter
+# React Starter
 
-React boilerplate including the following libararies
-- 1. Redux
-- 2. Reselect
-- 3. Styled Components
+React app boilerplate for use with redux, reselect, and styled-components.
+
+![Build Status][Travis-shield] ![JavaScript Style Guide][Prettier-shield] ![Packagist][MIT-shield]
 
 ## Installation
 
@@ -51,6 +50,13 @@ React boilerplate including the following libararies
   npm deploy
 ```
 
-2.  Integrate with travis.yml
+2.  Automate builds with Travis-CI
 
 The boilerplate includes a basic travis.yml setup.  For more info on integrating travis.yml visit travis-ci.com.
+
+
+[//]: <References>
+
+[Travis-shield]: <https://travis-ci.com/alexcasche/markdup.svg?branch=master>
+[Prettier-shield]: <https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-circle>
+[MIT-shield]: <https://img.shields.io/packagist/l/doctrine/orm.svg>

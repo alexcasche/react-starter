@@ -1,7 +1,7 @@
 {
   "name": "react-boilerplate-1",
   "version": "0.0.1",
-  "description": "React boilerplate with redux, reselect, styled-components.",
+  "description": "React app boilerplate for use with redux, reselect, and styled-components.",
   "author": "alexcasche",
   "license": "MIT",
   "private": true,
