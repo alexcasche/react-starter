@@ -57,6 +57,6 @@ The boilerplate includes a basic travis.yml setup.  For more info on integrating
 
 [//]: <References>
 
-[Travis-shield]: <https://travis-ci.com/alexcasche/markdup.svg?branch=master>
+[Travis-shield]: <https://travis-ci.com/alexcasche/react-starter.svg?branch=master>
 [Prettier-shield]: <https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-circle>
 [MIT-shield]: <https://img.shields.io/packagist/l/doctrine/orm.svg>

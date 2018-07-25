@@ -4,7 +4,7 @@
   "description": "React app boilerplate for use with redux, reselect, and styled-components.",
   "author": "alexcasche",
   "license": "MIT",
-  "private": true,
+  "homepage": "https://alexcasche.github.io/react-starter",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "prettier": "^1.12.1",
