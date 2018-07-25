@@ -52,7 +52,8 @@ React app boilerplate for use with redux, reselect, and styled-components.
 
 2.  Automate builds with Travis-CI
 
-The boilerplate includes a basic travis.yml setup.  For more info on integrating travis.yml visit travis-ci.com.
+  * Visit travis-ci.com & add the repo
+  * Open repo settings and add GITHUB_TOKEN
 
 
 [//]: <References>
